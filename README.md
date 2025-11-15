@@ -68,22 +68,23 @@ Ce travail pose une base solide pour les prochains ateliers où je vais explorer
 
 📸 Captures d’écran
 
-🖼️ Capture 1 : Interface principale (Étape 1-2)
+🖼️ Capture 1 : Ajout de l’AppBar (Étape 1-2)
 
 ![Wait](https://github.com/user-attachments/assets/2a20728f-3728-47e6-a921-37f7b4acfd24)
 
 
 
-🖼️ Capture 2 : Boutons affichés (Étape 3)
+🖼️ Capture 2 : Étape 3 : Ajouter du texte et une image
 
 ![Wait](https://github.com/user-attachments/assets/060e3103-385f-4351-bdbc-417860a20229)
 
 ![Wait](https://github.com/user-attachments/assets/bf6044c1-dedd-482a-a2f7-40f3341dd6de)
 
 
-🖼️ Capture 3 : Console Flutter lors du clic sur un bouton (Étape 4)
+🖼️ Capture 3 : Étape 4 : Ajouter des boutons interactifs (statique)
 
 ![Wait](https://github.com/user-attachments/assets/41d7ae6f-8dad-469e-b670-23d2be9ba320)
 
 ![Wait](https://github.com/user-attachments/assets/008ec934-d91f-4d3a-b8e9-b353df8254e8)
+
 
